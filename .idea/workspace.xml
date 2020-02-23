@@ -7,8 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbcfd544-dd10-4ac5-9a06-c529027f0f0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/login_fail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/login_fail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/login_suc.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/login_suc.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582425484797</updated>
-      <workItem from="1582425492092" duration="9392000" />
+      <workItem from="1582425492092" duration="9460000" />
     </task>
     <servers />
   </component>
