@@ -23,9 +23,6 @@
     </style>
 </head>
 <body>
-<script type = "text/javascript">
-    alert("登陆成功")
-</script>
-<h1>登录成功</h1>
+
 </body>
 </html>

@@ -11,7 +11,7 @@
   <title>登录页面</title>
   <style type="text/css">
     div {
-      text-align:center;
+      text-align:center
       width: 150px;
       padding: 10px;
       border: 5px solid gray;
