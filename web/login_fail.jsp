@@ -14,15 +14,7 @@
 <%  String account = request.getParameter("account");
     String code = request.getParameter("code");
 %>
-<%
-    if(account.equals("admin")&&code.equals("123")){
-        response.sendRedirect("login_suc.jsp");
-    }
-    else{
-        out.print("<script language = 'javaScript'> alert('登录失败');</script>");
-        response.setHeader("refresh","0,url = index.jsp");
-    }
-%>
+
 </body>
 </html>
 
