@@ -43,8 +43,6 @@
 <body>
 <div class = "middle">
   <form action = "login_fail.jsp" method = post>
-    <p>账号：<input type="text" name = "account"></p><br>
-    <p>密码：<input type="text" name = "code"></p><br>
     <p style="text-align:center">
     <input type = "submit" class = "button" value = "登录" name = "submit">
     </p>
