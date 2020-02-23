@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-  <title>登录</title>
+  <title>登录页面</title>
   <style type="text/css">
     div {
       text-align:center
