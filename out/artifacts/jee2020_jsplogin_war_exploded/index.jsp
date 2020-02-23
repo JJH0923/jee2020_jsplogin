@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-  <title>登录</title>
+  <title>登录页面</title>
   <style type="text/css">
     div {
       text-align:center
@@ -43,6 +43,7 @@
 <body>
 <div class = "middle">
   <form action = "login_fail.jsp" method = post>
+    <p>登录</p>
     <p>账号:<input type = "text" name = "account" ></p><br>
     <p>密码:<input type = "text" name = "code" ></p><br>
     <p style="text-align:center">
@@ -50,6 +51,5 @@
     </p>
   </form>
 </div>
-
 </body>
 </html>
